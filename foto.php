@@ -48,7 +48,7 @@ if(isset($_POST['adm']))
         echo 'data not Inserted';
     }
     mysqli_close ($connect);
-    id;
+
     
 }
 if(isset($_POST['adm1']))
